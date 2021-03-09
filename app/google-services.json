@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161008239315",
+    "project_id": "my-chaos",
+    "storage_bucket": "my-chaos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161008239315:android:5a1736faa90cfb3bb58a26",
+        "android_client_info": {
+          "package_name": "com.example.mychaos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161008239315-gdp2dcaugck1tjr23423s7egvst3urqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnf9Xfu3MSEnSRg_cckeYLsnVeE8T_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161008239315-gdp2dcaugck1tjr23423s7egvst3urqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
